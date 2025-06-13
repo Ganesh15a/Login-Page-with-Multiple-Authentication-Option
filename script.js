@@ -1,4 +1,4 @@
-// Sample user data
+
 const users = [
   {
     email: "uaskhkas.com",
